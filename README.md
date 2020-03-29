@@ -12,7 +12,7 @@ A Semana OmniStack é um workshop online produzido pela Rocketseat. Esta é a ve
 
 Clone o repositório:
 ```
-git clone https://github.com/pushline/Be-the-Hero.git
+git clone https://github.com/vrigolon/omnistack11-be-the-hero.git
 ```
 
 Iniciar backend:
