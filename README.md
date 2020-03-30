@@ -2,7 +2,8 @@
 
 A Semana OmniStack é um workshop online produzido pela Rocketseat. Esta é a versão 11, onde desenvolvemos uma aplicação desde o backend até o frontend web e mobile utilizando Javascript, React e React Native. O nome da aplicação desenvolvida é Be The Hero, uma aplicação para cadastro de ONGs e casos cadastrados por elas para que outras pessoas possam ajudar a resolvê-los.
 
-
+## Live App Demo on Heroku
+https://be-the-hero-2020.herokuapp.com/
 
 # Instalação
 
